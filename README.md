@@ -1,3 +1,11 @@
+## Wat dis?
+
+This is a project I use to become more familiar with React. It is not meant for public consumption and is likely to contain all sorts of broken code.
+
+Remember: friends don't let friends fork training repos.
+
+## Available Scripts
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
